@@ -1,0 +1,20 @@
+{
+  "name": "idils-test",
+  "version": "0.1.0",
+  "authors": [
+    "idiljay <ijama26@gmail.com>"
+  ],
+  "description": "bower test",
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": "bowerpackages.scss"
+}
